@@ -1,0 +1,22 @@
+luna_rating,maya_rating,row.x,subject,day
+Metestrus,Diestrus,1,EM01,BL1
+void,Proestrous,3,EM01,WD1 Friday
+Diestrus,Estrous,5,EM01,WD2 Friday
+Diestrus,Metestrus,6,EM01,WD2 Saturday
+Diestrus,Proestrous,9,EM02,WD1 Friday
+Diestrus,Metestrus,10,EM02,WD1 Saturday
+Diestrus,Proestrous,12,EM02,WD2 Saturday
+Metestrus,Diestrus,17,EM07,WD2 Friday
+Diestrus,Metestrus,18,EM07,WD2 Saturday
+void,Diestrus,19,EM08,BL1
+Diestrus,unsure,21,EM08,WD1 Friday
+Estrous,Metestrus,23,EM08,WD2 Friday
+Metestrus,Proestrous,24,EM08,WD2 Saturday
+Metestrus,Proestrous,25,EM11,BL1
+Diestrus,Proestrous,27,EM11,WD1 Friday
+Diestrus,Estrous,28,EM11,WD1 Saturday
+Diestrus,Metestrus,29,EM11,WD2 Friday
+Proestrous,Diestrus,33,EM12,WD1 Friday
+void,Diestrus,34,EM12,WD1 Saturday
+Proestrous,Diestrus,35,EM12,WD2 Friday
+Estrous,Proestrous,36,EM12,WD2 Saturday
