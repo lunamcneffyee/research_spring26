@@ -1,0 +1,13 @@
+subject,BL1,BL2,WD1 Friday,WD1 Saturday,WD2 Friday,WD2 Saturday,Notes,Rater
+EM01,Metestrus,Diestrus,void,Diestrus,Diestrus,Diestrus,WD2,Luna
+EM02,Metestrus,Diestrus,Diestrus,Diestrus,Metestrus,Diestrus,,Luna
+EM07,Diestrus,Proestrous,Diestrus,Diestrus,Metestrus,Diestrus,,Luna
+EM08,void,Diestrus,Diestrus,Diestrus,Estrous,Metestrus,,Luna
+EM11,Metestrus,Diestrus,Diestrus,Diestrus,Diestrus,Proestrous,,Luna
+EM12,Diestrus,Diestrus,Proestrous,void,Proestrous,Estrous,* Late estrous,Luna
+EM01,Diestrus,Diestrus,Proestrous,Diestrus,Estrous,Metestrus,,Maya
+EM02,Metestrus,Diestrus,Proestrous,Metestrus,Metestrus,Proestrous,,Maya
+EM07,Diestrus,Proestrous,Diestrus,Diestrus,Diestrus,Metestrus,,Maya
+EM08,Diestrus,Diestrus,unsure,Diestrus,Metestrus,Proestrous,,Maya
+EM11,Proestrous,Diestrus,Proestrous,Estrous,Metestrus,Proestrous,,Maya
+EM12,Diestrus,Diestrus,Diestrus,Diestrus,Diestrus,Proestrous,,Maya
