@@ -1,0 +1,7 @@
+subject,BL1,BL2,WD1 Friday,WD1 Saturday,WD2 Friday,WD2 Saturday
+EM01,Proestrous,Metestrus,void,Diestrus,Proestrous,Metestrus
+EM02,Metestrus,Diestrus,Diestrus,Diestrus,Diestrus,Proestrous
+EM07,Diestrus,Proestrous,Diestrus,Diestrus,Metestrus,Diestrus
+EM08,void,Diestrus,Diestrus,Diestrus,Estrous,Metestrus
+EM11,Metestrus,Diestrus,Diestrus,Diestrus,Diestrus,Proestrous
+EM12,Diestrus,Diestrus,Diestrus,void,Proestrous,Estrous
